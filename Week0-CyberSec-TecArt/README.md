@@ -4,6 +4,12 @@
 
 # Divisi : Forensik
 
+## Langkah-langkah penginstalan tools & Penyelesaian Challenge CTF
+
+## Tools umum
+
+# 1.WSL
+
 
 
 

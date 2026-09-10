@@ -64,6 +64,8 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
 
 
+
+
     ### 3. Challenge
 
     Disini kita akan mengerjakan Challenge "Undo" pada platform CYLAB Academy:  
@@ -92,7 +94,7 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
 5. ![Langkah5](img/Undo5.png)
 
-   Step 4 berhasil pakai `tr '()' '{}'`. Lanjut Step 5, teks di-ROT13
+   Step 4 berhasil pakai "tr '()' '{}'". Lanjut Step 5, teks di-ROT13
 
 6. ![Langkah6](img/Undo6.png)
 

@@ -190,7 +190,7 @@ https://learn.cylabacademy.org/library/186
 
 7. ![Langkah7](img/information9.png)
 
-    Kita langsung sja mendecode string itu dengan command echo "Masukkan String" | base64 -d.
+    Kita langsung sja mendecode string itu dengan command "echo "Masukkan String" | base64 -d".
     dan muncul flagnya.
 
    

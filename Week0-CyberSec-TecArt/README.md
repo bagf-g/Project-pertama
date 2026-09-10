@@ -49,6 +49,23 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
     Dan beginilah tampilan WSLnya.
 
+
+
+    ### 3. Python
+
+    Python Adalah bahasa pemrograman.
+
+    ![Langkah1](img/testpython.png)
+
+    Disini kita mengecek apakah python berjalan dengan baik. Caranya dengan jalakan perintah python3, nantinya akan ada
+    simbol >>>
+    untuk mengetesnya bisa dengan line sederhana seperti print ("Hello TecArt") dan nantinya terminal akan print
+    "Hello TecArt"
+
+
+    
+
+    
      
 
      

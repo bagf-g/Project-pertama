@@ -156,7 +156,7 @@ https://learn.cylabacademy.org/library/186
 
 2. ![Langkah2](img/information2.png)
 
-   Ini tampilan gambar dari file cat.jpg hanya ada gambar kucing gemoy🐈.
+   Ini tampilan gambar dari file cat.jpg hanya ada gambar kucing lucu🐈.
    Tapi sebenarnya flagnya berada pada metadata filenya, kita bisa memakai ExifTool untuk
    melihat metadata suatu file.
    

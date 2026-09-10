@@ -140,6 +140,7 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
    Tinggal submit flagnya dan selesai.
 
+## Tools Kategori
 
 ### 3. Forensics
 

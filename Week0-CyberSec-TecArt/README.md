@@ -57,7 +57,7 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
     Setelah mengisi user dan password kita, nantinya akan ada pertannyaan permintaan izin dari Ubuntu untuk
     mengumpulkan data spesifikasi komputer kita untuk meningkatkan fitur dan kecocokan sistem mereka. bisa jawab Y (Yes)
-    atau n (no). saya sih no no ya.. :>
+    atau n (no). saya pilih no
 
 
 

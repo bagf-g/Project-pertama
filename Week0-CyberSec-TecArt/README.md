@@ -55,7 +55,7 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
     Python Adalah bahasa pemrograman.
 
-    ![Langkah1](img/testpython.png)
+    ![Langkah1](img/tespython.png)
 
     Disini kita mengecek apakah python berjalan dengan baik. Caranya dengan jalakan perintah python3, nantinya akan ada
     simbol >>>
@@ -71,43 +71,42 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
     Berikut Langkah_langkahnya :
 
-### 3. Challenge - Undo
 
-Challenge ini dari picoCTF, tujuannya membalikkan beberapa transformasi teks Linux secara berurutan untuk menemukan flag aslinya.
-
-1. ![Langkah1](img/undo1.png)
+1. ![Langkah1](img/Undo1.png)
 
    Buka halaman challenge "Undo" dan connect ke server menggunakan command "nc foggy-cliff.picoctf.net 57244"
    Pada WSL kita.
 
-2. ![Langkah2](img/undo2.png)
+2. ![Langkah2](img/Undo2.png)
 
    Setelah terhubung, muncul Step 1 dengan flag yang sudah di-encode Base64. Diminta memasukkan command untuk membalikkan
    encoding tersebut.
 
-3. ![Langkah3](img/undo3.png)
+3. ![Langkah3](img/Undo3.png)
 
    Masukkan command "base64 -d" untuk mendecode string Base64 tadi.
 
-4. ![Langkah4](img/undo4.png)
+4. ![Langkah4](img/Undo4.png)
 
    Step 1 berhasi, lanjut ke Step 2 dimana teksnya sudah di reverse, jadi kita gunakan command rev untuk mengembalikannya.
 
-5. ![Langkah5](img/undo5.png)
+5. ![Langkah5](img/Undo5.png)
 
    Step 4 berhasil pakai `tr '()' '{}'`. Lanjut Step 5, teks di-ROT13
 
-6. ![Langkah6](img/undo6.png)
+6. ![Langkah6](img/Undo6.png)
 
    Step 4 berhasil dengan command "tr '()' '{}". Lanjut ke Step 5, teks terakhir di-ROT13, harus dibalikkan pakai command "tr".
 
-7. ![Langkah7](img/undo7.png)
+7. ![Langkah7](img/Undo7.png)
 
    Masukkan command "tr 'A-Za-z' 'N-ZA-Mn-za-m'" untuk membalikkan ROT13, dan ada muncul flagnya : "picoCTF{Revers1ng_t3xt_Tr4nsf0rm@t10ns_0ea42cd0}".
 
-8. ![Langkah8](img/undo8.png)
+8. ![Langkah8](img/Undo8.png)
 
    Tinggal submit flagnya dan selesai.
+
+   
     
 
 

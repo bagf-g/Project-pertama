@@ -14,7 +14,7 @@ WSL atau Windows Subsystem for Linux adalah sebuah fitur bawaan dari Microsoft y
 
 Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
-1. ![Hasil Eksekusi Terminal](Week0-CyberSec-TecArt/img/wsl1.png)
+1. ![Langkah1](img/wsl1.png)
 
 
 

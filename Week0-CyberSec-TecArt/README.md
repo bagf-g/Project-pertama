@@ -20,9 +20,11 @@ Berikut langkah-langkah menginstall wsl di Sistem Operasi Windows 10 :
 
 
 
+
 2. ![Langkah2](img/wsl2.png)
 
    Akan terlihat tampilan Command Promptnya dan jalankan command "wsl --install" dan tunggu hingga selesai.
+
 
 
 
